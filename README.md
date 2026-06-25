@@ -2,7 +2,7 @@
 
 ### Building Digital Solutions That Drive Business Growth
 
-Chunky Brains is a full-service IT company helping startups, businesses, and enterprises transform ideas into powerful digital products. Since 2017, we have been delivering high-quality web development, mobile app development, UI/UX design, SEO, and digital marketing solutions for clients worldwide. :contentReference[oaicite:0]{index=0}
+Chunky Brains is a full-service IT company helping startups, businesses, and enterprises transform ideas into powerful digital products. Since 2017, we have been delivering high-quality web development, mobile app development, UI/UX design, SEO, and digital marketing solutions for clients worldwide.
 
 We combine technology, creativity, and business strategy to create scalable solutions that improve user experience, automate operations, and accelerate growth.
 
