@@ -65,6 +65,43 @@ The platform reduced administrative workload for healthcare providers while prov
 </tr>
 </table>
 
+## Cartha AI  *(Flutter)*
+AI-powered emotional wellness companion helping users navigate anxiety, relationships, self-growth, and mental wellbeing.
+
+### Downloads
+* Android: https://play.google.com/store/apps/details?id=com.cartha_ai_mobile
+* iOS: https://apps.apple.com/us/app/cartha-ai/id6737981702
+
+
+### Screenshots
+
+<table align="center">
+<tr>
+<td valign="top">
+<img src="Cartha/cartha_1.jpg" width="400">
+</td>
+<td valign="top">
+<img src="Cartha/cartha_2.jpg" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="Cartha/cartha_3.jpg" width="400">
+</td>
+<td valign="top">
+<img src="Cartha/cartha_4.jpg" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="Cartha/cartha_5.jpg" width="400">
+</td>
+<td valign="top">
+<img src="Cartha/cartha_6.jpg" width="400">
+</td>
+</tr>
+</table>
+
 ---
 
 ## What We Do
