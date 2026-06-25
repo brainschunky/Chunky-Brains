@@ -85,7 +85,7 @@ Whether you're launching a startup, scaling a business, or modernizing an existi
 
 Website: https://www.chunkybrains.com
 
-Contact: info@chunkybrains.com
+Contact: chunkybrains123@gmail.com
 
 ---
 
