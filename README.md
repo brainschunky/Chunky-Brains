@@ -83,16 +83,14 @@ AI-powered emotional wellness companion helping users navigate anxiety, relation
 <td valign="top">
 <img src="Cartha/cartha_2.jpg" width="400">
 </td>
-</tr>
-<tr>
 <td valign="top">
 <img src="Cartha/cartha_3.jpg" width="400">
 </td>
+</tr>
+<tr>
 <td valign="top">
 <img src="Cartha/cartha_4.jpg" width="400">
 </td>
-</tr>
-<tr>
 <td valign="top">
 <img src="Cartha/cartha_5.jpg" width="400">
 </td>
