@@ -8,6 +8,65 @@ We combine technology, creativity, and business strategy to create scalable solu
 
 ---
 
+## Industries We Serve
+
+### AI & Automation
+
+## Tatkal Doctor – WhatsApp Appointment Automation Platform
+
+**Website Url:** https://www.tatkaldoctor.com/
+
+**Project Overview**
+
+Tatkal Doctor is a healthcare appointment automation platform that leverages WhatsApp to simplify patient appointment scheduling. Each healthcare provider receives a unique QR code that patients can scan to instantly access booking, rescheduling, and appointment management services.
+
+**Key Features**
+
+* WhatsApp-based appointment booking
+* Unique QR code generation for doctors
+* Doctor management dashboard
+* Appointment scheduling and tracking
+* Reschedule and cancellation management
+* Patient interaction monitoring
+* SMS package management system
+* Administrative control panel
+* Mobile-friendly user experience
+
+**Business Impact**
+
+The platform reduced administrative workload for healthcare providers while providing patients with a familiar and convenient communication channel for managing appointments.
+
+**Screenshots**
+
+<table align="center">
+<tr>
+<td valign="top">
+<img src="ChunkyBrains-Websites-Work/TatkalDoctor/1.png" width="400">
+</td>
+<td valign="top">
+<img src="ChunkyBrains-Websites-Work/TatkalDoctor/2.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="ChunkyBrains-Websites-Work/TatkalDoctor/3.png" width="400">
+</td>
+<td valign="top">
+<img src="ChunkyBrains-Websites-Work/TatkalDoctor/4.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="ChunkyBrains-Websites-Work/TatkalDoctor/5.png" width="400">
+</td>
+<td valign="top">
+<img src="ChunkyBrains-Websites-Work/TatkalDoctor/6.png" width="400">
+</td>
+</tr>
+</table>
+
+---
+
 ## What We Do
 
 * Custom Website Development
