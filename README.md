@@ -163,7 +163,7 @@ The platform significantly reduced manual processes, improved operational transp
 </tr>
 </table>
 
-## 2. ANRML  *(Flutter)*
+## ANRML  *(Flutter)*
 Industrial CMMS platform for maintenance scheduling, asset tracking, KPI monitoring, and operational workflow optimization.
 
 ### Downloads
