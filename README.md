@@ -100,6 +100,69 @@ AI-powered emotional wellness companion helping users navigate anxiety, relation
 </tr>
 </table>
 
+### Management Solutions
+
+### EMG – Facility Management
+
+**Website Url:** https://admin.emgindia.in/
+
+**Project Overview**
+
+EMG is a comprehensive facility management platform designed for organizations providing security and cleaning services across commercial buildings, hospitals, offices, and industrial facilities. The system digitizes workforce operations, attendance tracking, incident management, and service reporting through both web and mobile applications.
+
+**Key Features**
+
+* Multi-level role-based access control
+* Admin dashboard for workforce and task management
+* Client portal for service monitoring and reporting
+* Mobile applications for security guards and cleaning staff
+* Geo-location based attendance tracking
+* QR code verification for task completion
+* Incident reporting with image uploads
+* Real-time activity monitoring and reporting
+* Image-based proof of work validation
+
+**Business Impact**
+
+The platform significantly reduced manual processes, improved operational transparency, enhanced workforce accountability, and streamlined communication between clients and service providers.
+
+**Screenshots**
+
+<table align="center">
+<tr>
+<td valign="top">
+<img src="EMG/image1.png" width="400">
+</td>
+<td valign="top">
+<img src="EMG/image2.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="EMG/image3.png" width="400">
+</td>
+<td valign="top">
+<img src="EMG/image4.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="EMG/image5.png" width="400">
+</td>
+<td valign="top">
+<img src="EMG/image6.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="EMG/image7.png" width="400">
+</td>
+<td valign="top">
+<img src="EMG/image8.png" width="400">
+</td>
+</tr>
+</table>
+
 ---
 
 ## What We Do
