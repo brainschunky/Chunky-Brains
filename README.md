@@ -10,61 +10,37 @@ We combine technology, creativity, and business strategy to create scalable solu
 
 ## What We Do
 
-• Custom Website Development
-
-• Web Application Development
-
-• Laravel & PHP Development
-
-• WordPress Development
-
-• E-Commerce Solutions
-
-• Android App Development
-
-• iOS App Development
-
-• Flutter App Development
-
-• UI/UX Design
-
-• API Integrations
-
-• SEO Optimization
-
-• Digital Marketing
-
-• Website Maintenance & Support
+* Custom Website Development
+* Web Application Development
+* Laravel & PHP Development
+* WordPress Development
+* E-Commerce Solutions
+* Android App Development
+* iOS App Development
+* Flutter App Development
+* UI/UX Design
+* API Integrations
+* SEO Optimization
+* Digital Marketing
+* Website Maintenance & Support
 
 ---
 
-## 🛠 Technologies We Work With
+## Technologies We Work With
 
-• Laravel
-
-• PHP
-
-• Flutter
-
-• Android
-
-• iOS
-
-• JavaScript
-
-• MySQL
-
-• HTML5
-
-• CSS3
-
-• Bootstrap
-
-• WordPress
-
-• Git & GitHub
-
-• REST APIs
+* Laravel
+* PHP
+* Flutter
+* Android
+* iOS
+* JavaScript
+* MySQL
+* HTML5
+* CSS3
+* Bootstrap
+* WordPress
+* Git & GitHub
+* REST APIs
 
 ---
 
@@ -86,21 +62,14 @@ Mobile application projects built for Android, iOS, and Flutter platforms, focus
 
 ## Why Choose Chunky Brains
 
-• 8+ Years of Industry Experience
-
-• End-to-End Development Services
-
-• SEO-Friendly Development Approach
-
-• Modern & Scalable Architecture
-
-• Client-Centric Development Process
-
-• Long-Term Support & Maintenance
-
-• Global Client Base
-
-• Transparent Communication
+* 8+ Years of Industry Experience
+* End-to-End Development Services
+* SEO-Friendly Development Approach
+* Modern & Scalable Architecture
+* Client-Centric Development Process
+* Long-Term Support & Maintenance
+* Global Client Base
+* Transparent Communication
 
 ---
 
