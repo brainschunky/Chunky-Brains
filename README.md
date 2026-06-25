@@ -41,26 +41,26 @@ The platform reduced administrative workload for healthcare providers while prov
 <table align="center">
 <tr>
 <td valign="top">
-<img src="ChunkyBrains-Websites-Work/TatkalDoctor/1.png" width="400">
+<img src="TatkalDoctor/1.png" width="400">
 </td>
 <td valign="top">
-<img src="ChunkyBrains-Websites-Work/TatkalDoctor/2.png" width="400">
-</td>
-</tr>
-<tr>
-<td valign="top">
-<img src="ChunkyBrains-Websites-Work/TatkalDoctor/3.png" width="400">
-</td>
-<td valign="top">
-<img src="ChunkyBrains-Websites-Work/TatkalDoctor/4.png" width="400">
+<img src="TatkalDoctor/2.png" width="400">
 </td>
 </tr>
 <tr>
 <td valign="top">
-<img src="ChunkyBrains-Websites-Work/TatkalDoctor/5.png" width="400">
+<img src="TatkalDoctor/3.png" width="400">
 </td>
 <td valign="top">
-<img src="ChunkyBrains-Websites-Work/TatkalDoctor/6.png" width="400">
+<img src="TatkalDoctor/4.png" width="400">
+</td>
+</tr>
+<tr>
+<td valign="top">
+<img src="TatkalDoctor/5.png" width="400">
+</td>
+<td valign="top">
+<img src="TatkalDoctor/6.png" width="400">
 </td>
 </tr>
 </table>
