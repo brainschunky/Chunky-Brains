@@ -10,7 +10,7 @@ We combine technology, creativity, and business strategy to create scalable solu
 
 ## Industries We Serve
 
-### AI & Automation
+### AI & Automation 
 
 ## Tatkal Doctor – WhatsApp Appointment Automation Platform
 
