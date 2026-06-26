@@ -248,6 +248,18 @@ https://github.com/brainschunky/ChunkyBrains-Mobile-Apps
 
 Mobile application projects built for Android, iOS, and Flutter platforms, focusing on performance, scalability, and exceptional user experience.
 
+### Laravel Code Samples
+
+https://github.com/brainschunky/Laravel-Code-Samples
+
+Production-grade Laravel patterns covering service layer architecture, repository pattern, JWT & Sanctum authentication, REST API development, queue jobs, event-driven architecture, payment gateway integration, and more.
+
+### Mobile Architecture Code Samples
+
+https://github.com/brainschunky/Mobile-Architecture-Code-Samples
+
+Code samples and architectural patterns from our mobile development work across Flutter, Android, and iOS — covering state management, API integration, offline handling, and scalable project structure.
+
 ---
 
 ## Why Choose Chunky Brains
@@ -265,7 +277,7 @@ Mobile application projects built for Android, iOS, and Flutter platforms, focus
 
 ## Our Mission
 
-To empower businesses with innovative technology solutions that simplify processes, enhance customer experiences, and create sustainable growth through digital transformation. :contentReference[oaicite:1]{index=1}
+To empower businesses with innovative technology solutions that simplify processes, enhance customer experiences, and create sustainable growth through digital transformation.
 
 ---
 
@@ -280,3 +292,4 @@ Contact: chunkybrains123@gmail.com
 ---
 
 ### Turning Ideas Into Digital Success Stories
+
